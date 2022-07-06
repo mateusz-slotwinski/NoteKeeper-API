@@ -1,0 +1,25 @@
+{
+  "name": "notekeeperapi",
+  "version": "1.0.0",
+  "description": "Api for NoteKeeper project",
+  "main": "main.go",
+  "scripts": {
+    "start": "air",
+    "test": "go test ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Note-Keeper/NoteKeeperAPI.git"
+  },
+  "keywords": [
+    "go",
+    "gin",
+    "mongodb"
+  ],
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Note-Keeper/NoteKeeperAPI/issues"
+  },
+  "homepage": "https://github.com/Note-Keeper/NoteKeeperAPI#readme"
+}
